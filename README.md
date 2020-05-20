@@ -1,4 +1,4 @@
-# Welcome to the twitch-streaming repo
+# Welcome to the Mike Douglas Twitch.tv Channel Show Information
 
 Create issues for help drive the backlog for my channel
 
