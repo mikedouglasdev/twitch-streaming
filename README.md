@@ -12,7 +12,16 @@ Public Streaming Project in Azure DevOps
 
 [https://dev.azure.com/mikedouglas/Streaming](https://dev.azure.com/mikedouglas/Streaming)
 
-# Previous Shows
-[Episode 2](https://www.twitch.tv/videos/625574934) - Recap of Episode 1 and continued working on the multi stage YAML pipeline in Azure DevOps
+# Previous Shows on YouTube
+[MikeDouglasDev YouTube Channel](https://www.youtube.com/channel/UC8vRgPQtmdMCzyZa8vT5Y1A)
 
-[Episode 1](https://www.twitch.tv/videos/624630672) - First episode.  Audio didn't work right.  Set up PR and CI processes with YAML pipelines.
+## Learning about YAML Templates in Azure Pipelines
+[Episode 1](https://www.youtube.com/watch?v=OM1l5AkTx0I)
+
+## Learning about Multi-Stage YAML Pipeline in Azure DevOps
+[Episode 1](https://www.youtube.com/watch?v=3UnqTvjQ4lM) 
+
+[Episode 2](https://www.youtube.com/watch?v=CxPUmVxLWMA) 
+
+[Episode 3](https://www.youtube.com/watch?v=RcacWay1Mwo)
+
